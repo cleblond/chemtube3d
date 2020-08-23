@@ -6,5 +6,11 @@ $REGISTER_LTI2 = array(
 "short_name" => "ChemTube3D",
 "description" => "Easily search/link/embed to ChemTube3D Pages",
 //"messages" => array("launch", "launch_grade")
+
+"screen_shots" => array(
+        "store/screenshot1.png"
+)
+
+
 );
 
